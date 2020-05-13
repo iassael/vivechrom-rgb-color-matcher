@@ -1,15 +1,18 @@
-<center><h1>Vivechrom RGB color matcher</h1>Yannis Assael (<a href="https://www.assael.gr">www.assael.gr</a>)</center>
+# Vivechrom RGB color matcher
 
+Yannis Assael (<a href="https://www.assael.gr">www.assael.gr</a>)
+
+## Description
 
 This colaboratory notebook is used to find the closest vivechrom.gr paint code given an RGB color.
 
-<b>Instructions:</b>
+## Instructions
 
 1.   The cells below need to be run one by one by pressing shift+enter or by using the play button.
 2.   Fill the <b>target_color_rgb</b> value with your target RGB color.
 3.   Run the cell to get suggestions ordered by color similarity.
 
-<b>License:</b>
+## License
 ```
 Copyright 2020 Yannis Assael
  
