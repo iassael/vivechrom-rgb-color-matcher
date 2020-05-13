@@ -8,7 +8,8 @@ This colaboratory notebook is used to find the closest vivechrom.gr paint code g
 
 ## Instructions
 
-1.   The cells below need to be run one by one by pressing shift+enter or by using the play button.
+1.   Open this [Google Colab Notebook](https://colab.research.google.com/drive/1IaKKWlPdSSc4sM4cTUnJfdjRT-laCX7x).
+1.   The cells need to be run one by one by pressing shift+enter or by using the play button.
 2.   Fill the <b>target_color_rgb</b> value with your target RGB color.
 3.   Run the cell to get suggestions ordered by color similarity.
 
