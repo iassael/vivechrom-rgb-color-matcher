@@ -8,7 +8,7 @@ This colaboratory notebook is used to find the closest vivechrom.gr paint code g
 
 ## Instructions
 
-1.   Open this [Google Colab Notebook](https://colab.research.google.com/drive/1IaKKWlPdSSc4sM4cTUnJfdjRT-laCX7x).
+1.   Open this [Google Colab Notebook](https://colab.research.google.com/github/iassael/vivechrom-rgb-color-matcher/blob/master/vivechrom_rgb_color_matcher.ipynb).
 1.   To edit and run the code, you need to click 'Open in Playground Mode' if you can see it at the top of the page, or save a local copy somewhere on your computer.
 1.   The cells need to be run one by one by pressing shift+enter or by using the play button.
 1.   Fill the <b>target_color_rgb</b> value with your target RGB color.
